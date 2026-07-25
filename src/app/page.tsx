@@ -20,7 +20,7 @@ export default function Home() {
         <Countdown />
 
         <p className="detail">
-          24 de junho · fogueira, forró e sanfona no Parque do Povo
+          24 de junho · no Parque do Povo
         </p>
       </div>
 
